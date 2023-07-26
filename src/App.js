@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          We will display this app to firebase
+          We will display this app to firebase.
+          We have added this after github workflow setup.
         </p>
         <a
           className="App-link"
